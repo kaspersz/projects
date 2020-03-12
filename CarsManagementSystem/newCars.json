@@ -1,0 +1,52 @@
+{
+  "cars": [
+    {
+      "name": "AUDI",
+      "price": 30000,
+      "engineCapacity": 2.5,
+      "mileage": 100000,
+      "color": "BLACK",
+      "equipmentList": [
+        "Ait Conditioning",
+        "Electric Mirrors"
+      ]
+    },
+    {
+      "name": "BMW",
+      "price": 50000,
+      "engineCapacity": 2.0,
+      "mileage": 50000,
+      "color": "BLUE",
+      "equipmentList": [
+        "Air Conditioning",
+        "Heated Seats",
+        "Distance Sensor",
+        "Small Seat Head TV "
+      ]
+    },
+    {
+      "name": "MAZDA",
+      "price": 50000,
+      "engineCapacity": 1.2,
+      "mileage": 130000,
+      "color": "BLUE",
+      "equipmentList": [
+        "Air Conditioning",
+        "ABS",
+        "GPS Navigation"
+      ]
+    },
+    {
+      "name": "SUZUKI",
+      "price": 25000,
+      "engineCapacity": 3.0,
+      "mileage": 170000,
+      "color": "WHITE",
+      "equipmentList": [
+        "Air Conditioning",
+        "Electric mirrors",
+        "Automatic Parking System"
+      ]
+    }
+  ]
+}
